@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeWithCODFY
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning HTML(Programming language)
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Youtube
 - 📫 How to reach me: ranishobha1986@gmail.com
 - 😄 Pronouns: Youtuber, Programer
