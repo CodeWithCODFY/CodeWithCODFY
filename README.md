@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @CodeWithCODFY
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Youtube
-- 📫 How to reach me: ranishobha1986@gmail.com
-- 😄 Pronouns: Youtuber, Programer
-- ⚡ Fun fact: My Youtube channel's name is also CodeWithCODFY 
+# Hi there, I'm Rishav 👋  
 
-<!---
-CodeWithCODFY/CodeWithCODFY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Programmer | Game Developer | Creative Coder**  
+
+I’m passionate about building things that mix **logic, creativity, and fun** — from pixel-art games to Discord bots, from small experiments to big projects.  
+Here, you’ll find my playground of ideas, projects, and open-source contributions.  
+
+---
+
+## 🚀 What I Do  
+- 🎮 **Game Development** with Godot, JavaScript, and Python  
+- 🤖 **Discord Bots** that are smart, fun, and feature-packed  
+- 🌐 **Web Development** — clean, responsive, and interactive  
+- 🧪 Experimenting with new tech, frameworks, and creative concepts  
+
+---
+
+## 🛠 Tech Stack  
+**Languages:** Python, JavaScript, GDScript, C++, HTML/CSS  
+**Tools & Frameworks:** Godot, Node.js, React, MongoDB  
+**Other:** Git, OpenAI APIs, Arduino  
+
+---
+
+## ✨ Fun Facts  
+- 🚀 I love trying out bold and weird ideas just to see if they work  
+- 🎨 Sometimes I mix coding with pixel art & storytelling  
+- 📚 Always learning something new — tech is my endless game  
+
+---
+
+## 📫 Let’s Connect  
+- 💬 Discord: `Codfy`  
+- 📺 YouTube: [CodeWithCODFY](https://youtube.com/@CodeWithCODFY)  
+
+> _"Good code is like a good story — it’s clear, engaging, and leaves you wanting more."_  
+
+---
